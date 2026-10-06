@@ -30,7 +30,7 @@ from langchain_core.output_parsers import StrOutputParser
 # environment variable
 load_dotenv()
 
-os.environ['HF_TOKEN']=os.getenv("HF_TOKEN")
+os.environ["HF_TOKEN"] = os.getenv("HF_TOKEN")
 
 groq_api_key = os.getenv("GROQ_API_KEY")
 
