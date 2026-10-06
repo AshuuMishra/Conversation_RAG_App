@@ -1,0 +1,31 @@
+langchain-groq
+langchain
+python-dotenv
+langchain-community 
+streamlit
+langchain-huggingface
+langchain-core
+langchain-text-splitters
+ipykernel
+sentence_transformers
+faiss-cpu
+torchvision
+pypdf
+arxiv
+wikipedia
+
+PyPDF2
+
+#chabot with langgraph
+langgraph
+
+# langchain
+langsmith
+langchain_tavily
+
+
+
+# summarization
+youtube_transcript_api
+validators
+unstructured
